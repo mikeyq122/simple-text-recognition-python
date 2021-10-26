@@ -15,3 +15,5 @@ the image to text library does better with scaled up images but takes longer
 How I use:
 I personally have a shortcut on my taskbar on Ubuntu and run it with 3 as the scaling number, 
 this takes around 5 seconds on a mid-tier laptop for scaning a portion of the screen
+
+if you want to change the name of the 'get-pos.py' file, you will need to change the import settings in the other file
